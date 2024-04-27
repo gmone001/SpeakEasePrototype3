@@ -46,7 +46,7 @@ def synthesize_response(text):
 
 def main():
     # Initial greeting in Spanish
-    initial_greeting = "Hola, ¿cómo estás? Me llamo Paula."
+    initial_greeting = "Hola, ¿cómo estás? Me llamo Andrea."
     print("Chatbot: " + initial_greeting)
     synthesize_response(initial_greeting)
 
